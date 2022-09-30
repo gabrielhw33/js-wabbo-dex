@@ -1,0 +1,47 @@
+body {
+    background-color: #A24857;
+    margin:0
+}
+
+div {
+    background-color: hsl(159, 44%, 85%);
+    padding: 1em;
+    text-align:center;
+
+}
+
+p {
+    font-family:"Inter", Verdana;
+    font-size: 1.10em;
+}
+
+#searchdiv {
+    margin: 0;
+    padding: 2em;
+}
+
+#box {
+    position: flex;
+    align-items: center;
+    justify-content: center;
+    margin:auto;
+    margin-top:1em;
+    width: 250px;
+    max-width:100%;
+    max-height:100%;
+    border-radius: 8px;
+}
+
+h3 {
+    font-family:"Inter", Verdana;
+    font-style: bold;
+}
+
+#sprite {
+    padding: 0;
+}
+
+#clear {
+    padding:15px;
+    border-radius:10px;
+}
